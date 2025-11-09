@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257"><defs><linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%"><stop offset="0%" stop-color="#41D1FF"></stop><stop offset="100%" stop-color="#BD34FE"></stop></linearGradient><linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%"><stop offset="0%" stop-color="#FFEA83"></stop><stop offset="8.333%" stop-color="#FFDD35"></stop><stop offset="100%" stop-color="#FFA800"></stop></linearGradient></defs><path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M255.153 37.938L134.897 252.976c-2.483 4.44-8.862 4.466-11.382.048L.875 37.958c-2.746-4.814 1.371-10.646 6.827-9.67l120.385 21.517a6.537 6.537 0 0 0 2.322-.004l117.867-21.483c5.438-.991 9.574 4.796 6.877 9.62Z"></path><path fill="url(#IconifyId1813088fe1fbc01fb467)" d="M185.432.063L96.44 17.501a3.268 3.268 0 0 0-2.634 3.014l-5.474 92.456a3.268 3.268 0 0 0 3.997 3.378l24.777-5.718c2.318-.535 4.413 1.507 3.936 3.838l-7.361 36.047c-.495 2.426 1.782 4.5 4.151 3.78l15.304-4.649c2.372-.72 4.652 1.36 4.15 3.788l-11.698 56.621c-.732 3.542 3.979 5.473 5.943 2.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505 4.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 256 256" width="32" height="32" aria-labelledby="title desc">
+  <title id="title">Amharic Imposter Icon</title>
+  <desc id="desc">Stylised mask and Amharic letter icon for the Amharic Imposter game.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </radialGradient>
+    <linearGradient id="maskGlow" x1="40%" x2="60%" y1="30%" y2="80%">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="url(#bg)" />
+  <path
+    d="M128 62c-40 0-66 26-66 60 0 24 14 46 36 55l14 6 16 33a6 6 0 0 0 11 0l16-33 14-6c22-9 36-31 36-55 0-34-26-60-66-60Zm0 32c21 0 32 14 32 28 0 18-12 26-32 26s-32-8-32-26c0-14 11-28 32-28Z"
+    fill="url(#maskGlow)"
+    opacity="0.95"
+  />
+  <path
+    d="M128 108c-18 0-28 10-28 21 0 15 11 23 28 23s28-8 28-23c0-11-10-21-28-21Zm-44 70c-3 0-4 4-2 6 16 18 36 27 60 27s44-9 60-27c2-2 0-6-2-6-21 0-35 12-58 12s-37-12-58-12Z"
+    fill="#fff"
+    opacity="0.85"
+  />
+  <text
+    x="50%"
+    y="214"
+    text-anchor="middle"
+    font-family="'Noto Sans Ethiopic','Segoe UI',sans-serif"
+    font-size="42"
+    fill="#f8fafc"
+  >
+    ኢ
+  </text>
+</svg>
